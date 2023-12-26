@@ -1,1 +1,1 @@
-# drumkit_site_project
+This is a Drumkit webpage built using HTML, CSS & JavaScript.
